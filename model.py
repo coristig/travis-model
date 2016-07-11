@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 
 df_raw = pd.read_csv('./salary_data.csv', index_col=0)

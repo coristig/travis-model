@@ -1,3 +1,4 @@
+import os
 import unittest
 import pandas as pd
 from model import TravisModel, transform_dummies
